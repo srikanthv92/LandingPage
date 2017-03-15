@@ -1,0 +1,19 @@
+h1{
+    padding-top:10px;
+    text-align:center;
+    color:white;
+    paddign-bottom:25px;
+}
+body{
+    background:url(../img/doll.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+p{
+    text-align:center;
+    color:white;
+}
+table{
+    float:right;
+    text-align:center;
+    color:white;
+}

@@ -1,0 +1,24 @@
+    h1{
+        padding-top:10px;
+    text-align:center;
+    color:black;
+}
+body{
+    background:url(../img/birds.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+p{
+    text-align:center;
+    color:black;
+    padding:5px 5px 5px 5px;
+}
+h2{
+    text-align:center;
+    padding:5px;
+    color:black;
+}
+h3{
+    color:black;
+    padding:10px;
+    text-align:center;
+}
